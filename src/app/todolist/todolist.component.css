@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#submitButton {
+    margin-top: 20px;
+}
+
+#myCheckbox {
+    margin-top: 30px;
+
+}
+
+.completed {
+    text-decoration: line-through;
+}
